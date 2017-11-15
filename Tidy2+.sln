@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tidy2+", "Tidy2+.vcxproj", "{1590D7CD-7D3A-4AB7-A355-EE02F7FB987D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ANSI Release|x86 = ANSI Release|x86
+		Unicode Realease|x86 = Unicode Realease|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1590D7CD-7D3A-4AB7-A355-EE02F7FB987D}.ANSI Release|x86.ActiveCfg = ANSI Release|Win32
+		{1590D7CD-7D3A-4AB7-A355-EE02F7FB987D}.ANSI Release|x86.Build.0 = ANSI Release|Win32
+		{1590D7CD-7D3A-4AB7-A355-EE02F7FB987D}.Unicode Realease|x86.ActiveCfg = Unicode Realease|Win32
+		{1590D7CD-7D3A-4AB7-A355-EE02F7FB987D}.Unicode Realease|x86.Build.0 = Unicode Realease|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB660607-81D7-4544-9AC9-012E3D3C03BF}
+	EndGlobalSection
+EndGlobal
